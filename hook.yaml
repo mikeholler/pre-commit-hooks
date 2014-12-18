@@ -1,0 +1,6 @@
+-   id: play-framework-2-test
+    name: Play Framework 2 Test
+    description: Runs activate test on current project.
+    entry: play-framework-2/activator-test
+    language: system
+    files: \.pre-commit-config.yaml$

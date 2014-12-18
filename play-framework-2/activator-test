@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+# Run all of the activator tests by running activator in the repository root.
+
+( cd "$(git rev-parse --show-toplevel)" && echo $(pwd) &&  activator test )
