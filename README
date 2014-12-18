@@ -1,0 +1,4 @@
+pre-commit-hooks
+================
+
+Contains custom hooks for [pre-commit](http://pre-commit.com).
